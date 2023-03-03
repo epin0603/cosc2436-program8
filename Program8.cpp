@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-//Name: Eddie G. Pineda																			         //
-//Date: 12/02/2022																				         //
+//Name: Eddie G. Pineda										         //
+//Date: 12/02/2022										         //
 //Program Statement: Design a class for a binary search tree capable of storing numbers. The class       //
 //                   should have member functions: void insert(double x)                                 //
 //                                                 bool search(double x)                                 //
